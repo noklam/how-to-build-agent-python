@@ -1,6 +1,0 @@
-pyproject.toml
-src/python_agents_workshop.egg-info/PKG-INFO
-src/python_agents_workshop.egg-info/SOURCES.txt
-src/python_agents_workshop.egg-info/dependency_links.txt
-src/python_agents_workshop.egg-info/requires.txt
-src/python_agents_workshop.egg-info/top_level.txt
